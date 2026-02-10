@@ -42,6 +42,15 @@ I’m a passionate full-stack developer with hands-on experience building scalab
 
 
 ## 📫 Connect With Me
-- LinkedIn: https://www.linkedin.com/in/deepak-kushwah07/
-- GitHub: https://github.com/Deepak-web-07
-- Email: dkushwah6578@gmail.com
+
+<a href="https://www.linkedin.com/in/deepak-kushwah07/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:dkushwah6578@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Deepak-web-07" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+</a>
