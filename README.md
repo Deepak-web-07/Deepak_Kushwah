@@ -7,8 +7,8 @@
 I’m a passionate full-stack developer with hands-on experience building scalable web applications using the MERN stack. I enjoy turning ideas into real-world products and continuously improving my problem-solving skills.
 
 ## 🛠️ Tech Stack
-- **Frontend:** React.js, Tailwind CSS, HTML, CSS, Redux  
-- **Backend:** Node.js, Express.js, REST APIs  
+- **Frontend:** React.js, Redux, Tailwind CSS, HTML, CSS
+- **Backend:** Node.js, Express.js, RESTful APIs  
 - **Database:** MongoDB, SQL  
 - **Auth:** JWT, bcrypt  
 - **Tools:** Git, GitHub, Postman, VS Code  
